@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: tqdm
+plugins:
+- jekyll-redirect-from
